@@ -1,0 +1,33 @@
+***************
+*** 15,21 ****
+   */
+  package org.yaml.snakeyaml.extensions.compactnotation;
+  
+- import com.googlecode.openbeans.IntrospectionException;
+  import java.util.HashMap;
+  import java.util.Iterator;
+  import java.util.List;
+--- 15,20 ----
+   */
+  package org.yaml.snakeyaml.extensions.compactnotation;
+  
+  import java.util.HashMap;
+  import java.util.Iterator;
+  import java.util.List;
+***************
+*** 186,192 ****
+       * 
+       * @throws IntrospectionException
+       */
+-     protected String getSequencePropertyName(Class<?> bean) throws IntrospectionException {
+          Set<Property> properties = getPropertyUtils().getProperties(bean);
+          for (Iterator<Property> iterator = properties.iterator(); iterator.hasNext();) {
+              Property property = iterator.next();
+--- 185,191 ----
+       * 
+       * @throws IntrospectionException
+       */
++     protected String getSequencePropertyName(Class<?> bean) {
+          Set<Property> properties = getPropertyUtils().getProperties(bean);
+          for (Iterator<Property> iterator = properties.iterator(); iterator.hasNext();) {
+              Property property = iterator.next();

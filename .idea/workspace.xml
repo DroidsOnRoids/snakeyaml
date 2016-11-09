@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47aba144-4657-49f6-832d-e7f9c7fd419f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/resolver.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-28.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-15.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-04.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/implicit-document.single-loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/template/mybean1.vm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-5.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-12b.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-document-start.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-03.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-20.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-12.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-13.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-document-end.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-12.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-01.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-06.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-17.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-33.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-17.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-20.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-directive-prefix.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-14.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-25.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-02.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-scalar.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-uri-escapes-3.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-pairs-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-07.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-30.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-12.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-05.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-15.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-07.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-03.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-01-utf16be.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-22.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-08.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-block-mapping-end.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-31.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-04.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-yaml-directive.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/more-floats.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-07.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-20.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-01.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-32.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-05.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/tags.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-12.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-09.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-33.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-tag-prefix.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-01-utf16le.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-24.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-08.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-16.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-06.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-02.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-str.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/forbidden-entry.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-11.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-09.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-22.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-node-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-float.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-19.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-12.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/sequences.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-07a.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-utf8-byte.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/colon-in-flow-context.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-10.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-07.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-21.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/scan-line-break-bug.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-simple-key.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-omap-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-str-utf8.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-23.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-07b.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-character.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/float.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-11.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-01.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-09.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-handle-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/fetch-complex-value-bug.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-sequence.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-24.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-mapping-key.former-loader-error.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-26.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-24.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/documents.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-18.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-09.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-12.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-07a.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-tag-handle.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-nothing.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-value.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-omap.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-13.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-01.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/emit-block-scalar-in-simple-key-context-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-25.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/forbidden-value.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-omap-3.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-14.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-anchor.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-3.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-26.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-tag.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-block-mapping-end-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-03.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/float-representer-2.3-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-02.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/timestamp-bugs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/value.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/emitting-unacceptable-unicode-character-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-flow-mapping-end.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-anchors.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/sloppy-indentation.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/yaml.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-27.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-20.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-handle-2.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-15.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-04.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-04.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-12.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/explicit-document.single-loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-mapping.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-03.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-04.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-6.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-utf8-byte.stream-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-int.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-uri-escapes-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-anchor.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-stream-start.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-17.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-28.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-09.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-25.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-16.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-05.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/mappings.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-character.stream-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/int.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue99.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/sloppy-indentation.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-06.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-directive-handle.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-29.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-directive-name-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-04.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-alias-anchor.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-document-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-base64-data.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/unacceptable-key.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/a-nasty-libyaml-bug.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-26.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-pairs-3.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-14.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-17.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-07.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-14.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/undefined-constructor.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-12a.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-30.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-05.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-23.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-22.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-binary.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-02-utf16be.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-18.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-08.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-block-scalar-indicator.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-27.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/unclosed-quoted-scalar.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-13.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-19.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-06.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-16.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/odd-utf16.stream-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-handle-1.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-01-utf8.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/aliases.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-indentation-indicator-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-07b.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-12b.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-07.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-14.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-19.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/test_mark.marks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-03.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-14.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-02-utf8.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-02-utf16le.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-06.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-08.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-document-start.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-10.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-custom.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-set.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-21.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-documents.single-loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-single-quote-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-09.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-21.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-13.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-node-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-anchor-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/run-parser-crash-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-merge-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-11.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-05.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-15.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-28.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/undefined-anchor.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-map.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-merge-key.former-loader-error.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/tab-in-scalar.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/timestamp.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-26.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-13.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-anchors.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-18.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-01.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-01.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/tab-in-scalar.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-null.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-tag-handle-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-02.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-omap-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-18.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/scan-line-break-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-02.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-14.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-31.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/null.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-23.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-merge.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-15.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-12.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-15.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-block-collection-end.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/remove-possible-simple-key-bug.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-directive-version-4.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-08.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/scalars.events" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-28.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-23.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-document-bug.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/merge.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/emit-block-scalar-in-simple-key-context-bug.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-15.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-04.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-escape-numbers.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-uri-escapes-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-pairs-1.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-tag-directive.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-13.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-pairs.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-item-without-trailing-break.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/forbidden-key.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-value-key.former-loader-error.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-01.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-22.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-06.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-02.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/undefined-tag-handle.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-14.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-directive-name-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-06.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/str.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/unclosed-bracket.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-escape-character.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-03.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-27.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/empty-tag.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-19.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-directive-line.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-06-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-10.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-yaml-version.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-node-2.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-str-ascii.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-10.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-timestamp.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-08.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-uri.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-indentation-indicator-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-15.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-11.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-12a.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-07.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-32.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/single-dot-is-not-float-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-25.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-24.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/document-separator-in-quoted-scalar.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/duplicate-key.former-loader-error.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/no-flow-sequence-end.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/negative-float-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-16.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-09.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-starting-character.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-10.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-15.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-13.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-09-29.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-11.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/scan-document-end-bug.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/scan-document-end-bug.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-08.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-seq.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-27.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/construct-bool.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-merge-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-05-14.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/expected-node-1.emitter-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-11.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-10-10.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-08-12.canonical" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/invalid-anchor-2.loader-error" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-07-03.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/spec-02-05.tokens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/pyyaml/bool.data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue176/SingleQuoteTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/FrontDoor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue311/BooleanEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/Child1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/staticstate/StaticFieldsWrapperTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/carwheel-root-map.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue97/Post.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_16.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/scanner/ScannerImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue127/NullAliasTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/reader/ReaderStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue203/ContentIdentifier.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomBeanResolverTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Chapter2_2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/Post.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue24/LineNumberTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyImportTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error8.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue139-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/stress/ParallelTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-dump8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue11/YamlMapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue116/NoFieldsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-dump7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/car-without-root-tag.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/ValueTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue154/TestBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeListNoGerericsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue147/PrintableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue61/GenericMapBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue332/DataTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_5.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue155/BinaryTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue335/JavaLangObjectTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/Car.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/Bean2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/Triangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue74/ArrayBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/resolver/CustomIntResolver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue348/MultiLevelImmutableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue100/DataBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Animal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/Nest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue139/UniqueKeyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/resolver/ImplicitResolverTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/ObjectValues.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/FloatTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/SafeRepresenterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/car-no-root-class-map.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/AbstractHuman.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/DumpStackTraceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue115/IssueBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue348/model/Bar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomConstructor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue115/ParameterizedJavaBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue173/RecursiveAnchorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue163/LinearScalaTralingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ImplicitTagsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example11.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-10.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue141/ConfigurableTimezoneTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue58/NullValueDumperTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-recursive-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/error/MarkedYAMLExceptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/BinaryJavaBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example6.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/PairsTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/ByteArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children-as-set.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/BooleanArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/primitives/ImmutablePrimitivesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/CanonicalParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue341/MultiRepresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyReaderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue59-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/SelectiveConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeSetImplementationsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue124/DumpTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue40/DogFoodBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue51/UnicodeStyleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/immutable/shapeNoTags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue203/ContentIdentifierImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/jodatime/MyBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Code3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue46/FileTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue306/UuidSupportTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue60/CustomOrderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue310/Option.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue149-one-document.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/TypeDescriptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue205/AppleSmileTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/YamlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue182/InfinityFloatBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/BigDecimalBeanConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/DumperOptionsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/GenericArrayTypeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue59-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue29/FlexibleScalarStyleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/spring.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/jodatime/JodaTimeImplicitContructor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Chapter2_4Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue10/JDBCDataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue29/FlexibleScalarStylesInJavaBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/TagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-recursive10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue306-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/generics/HumanGenericsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/biz/source_code/base64Coder/Base64CoderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_20.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/TypeSafeCollectionsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/IBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue132/ScalarEventTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/AtomicJavaBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_12.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/BeanHolder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue144/FloatPropertyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/reader/IoReaderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/IntArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeMap2Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue24-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children-as-map.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-recursive4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_25.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue56-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue38/BigNumberIdTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-recursive5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/Shape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ConstructorMappingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/HouseBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/serializer/AnchorGeneratorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue55/Post.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/list-bean-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/PrefixConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/DumpSetAsSequenceExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue182/InfinityFloatBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_15_dumped.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue67-error1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/lowlevel/LowLevelApiTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/CanonicalLoader.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/Human.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-recursive9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/partialconstruct/FragmentComposerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_single.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue55/JavaBeanListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/Bird.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/Box.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomImplicitResolverTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyCanonicalTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue94/EntityLoadingProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue67-error2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafePriorityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error9.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_6.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/AbstractTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/BinaryBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/ruby/RubyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue154/MissingPropertyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/resolver/ResolverTupleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/DumpExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue61-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_23_application.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-childrenArray-no-root-tag.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ClassTagsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/no-children-1-pretty.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/house-dump3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue55_1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/MappingNodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue115/ParameterizedTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/House.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example12.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue177-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/scalar-style1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-no-root-tag.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/any-object-example.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/TagTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Util.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/Row.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example7.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue100/MergeMapsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue10/BasicDumpTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/RepresentTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomListExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue193/AbstractBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/ShapeImmutableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/reader/utf-8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/BeanConstructor3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue145/CompleteThing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyStructureTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue55_2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/TestBean1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Example2_27Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-11.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/NodeTupleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-childrenArray.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/MyCar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/org/yaml/snakeyaml/issues/issue318/classpath.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue310/PropertyWithPrivateCostructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/DoubleArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-recursive-4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/jodatime/JodaTimeRepresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/generics/HumanGen2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/IntTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue311/BeanWithEnum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue145/AbstractThing.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_27_dumped.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue97/YamlSortedSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/DocumentEndTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/CustomClassLoaderConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/stress/StressEmitterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/staticstate/StaticFieldsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue73-6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue60/SkipBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue100/MergeJavaBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/SeqTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/RepresenterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue52/LineBreakDooubleQuotedTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/AbstractConstructTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Code4.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue124/Bean124.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/value.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue171/CustomRepresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_23_picture.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/LoadExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/generics/AbstractHumanGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/RecursiveSortedSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/reader/unicode-16be.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue150/Car.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_11.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue150/YamlLoadAsIssueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/AliasTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/partialconstruct/FragmentComposer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/SetAsSequenceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/ruby/ruby1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_21.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Address.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/VectorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue72/CollectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/map_mixed_tags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_13.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_hexesc.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue64/ParameterizedTypeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/BeanConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue306-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue138/ReaderExceptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Point2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue100/DataMore.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/ObjectValuesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/issue10-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error5.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/partialconstruct/DeveloperBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue10/DataSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/NodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/reader/ReaderBomTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/template/etalon1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/parser/VersionTagsTupleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/TestBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/CompactConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Chapter2_1Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/RepresentFieldTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_26.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue60/SkipBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue100-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue40/DogFoodBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_18.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/EnumTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue144/BeanData.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue148/PrintableUnicodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/CollectionWithBeanYamlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/list-bean-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/stacktrace2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyErrorsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/stacktrace1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue67/NonAsciiCharsInClassNameTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/stacktrace1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/DirectiveTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue127/Bean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/reader/unicode-16le.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/TimestampTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyEmitterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_7.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue177/PointBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue55/FieldListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/FlowEntryTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/stacktrace3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue56/CodeBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/AnInstance.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/set.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue143/GenericMapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/TriangleBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/Door.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-5.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/IgnoreTagsExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/car-without-tags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/MockDateBeanConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue348/model/Foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/no-children-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/ruby/TestObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue171/ClassWithGenericMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue341/MultiRepresenterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeListWithInterfaceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue112/MyClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue61-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/staticstate/JavaBeanWithStaticState.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/scalar-style2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/StrTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeMapTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/ShortArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/SuperColor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/SpringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue99/YamlBase64Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue145/LineNumberInExceptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Dog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/DocumentStartTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/MoreImmutablesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/BlockEntryTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue203/DataBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CollectionStyleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/TriangleBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/Hero.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/primitives/ImmutablePrimitivesRepresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/OmapTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/LongArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue193/TestYaml.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Code.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-12.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/ruby/Sub1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/beanring-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/generics/HumanGen3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/ObjectValuesWithParam.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/TreeSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue100-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ConstructorSequenceTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/SafeConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/house-dump1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue151/EscapedUnicodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/emitter/EmitterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue203/Identifiable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/map.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-recursive-1_1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyTokensTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue49/CalendarTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue94/Entity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/staticstate/Wrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue192/EqualsSignTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/cararray-with-tags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Example2_24Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/AnyObjectExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/TypeSafeMapImplementationsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue193/BeanA1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/v.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue8/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/template/etalon2-template.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/BoolTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/BlockEndTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyRecursiveTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue177/Points.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_22.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue114/PreserveTypeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/ScalarNodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/no-children-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/Container.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue115/ParameterizedBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/StringArrayTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue183/NumberBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_14.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_quoted.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue112/ParameterisedTypeLoadingTestCase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/NullTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue97/Blog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/resolver/CustomResolver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomJavaObjectWithBinaryStringTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue82/PropOrderInfluenceWhenAliasedInGenericCollectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/HouseTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/ArrayListTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/car-no-root-class.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/JavaBeanTimeStampTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/CustomMapExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Chapter2_3Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/issue10-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue61/GenericListBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/AbstractAnimal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue203/GenericTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/immutable/shape1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/emitter/template/MyBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue64/MethodDesc.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_27.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue332/Data.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_tie_fighter.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/util/UriEncoderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error6.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/scanner/ConstantTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue139-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Suit.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/Human2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/Blog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/BlockSequenceStartTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/mycar-with-global-tag1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/ImmutablesRepresenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/SetTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/SequenceNodeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue48/SkipJavaBeanPropertyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue50/SnakeyamlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_19.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/resolver/CustomResolverTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/list-bean-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/scanner/SimpleKeyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/BeanConstructor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/PackageCompactConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/composer/ComposerImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue348.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/parser/ParserImplTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue99-base64_literal_custom_tag.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/StreamStartTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/BirdTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue306/BeanWithId.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/emitter/EmitterMultiLineTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue139/MergeValueTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue177/PointBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/PyMarkTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue310/Person.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue112-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue102/BigDataLoadTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue48/Bean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/reader/large.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/MyWheel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_8.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/JavaBeanWithNullValues.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue150/Wheel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue149-losing-directives.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue193/BeanA.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children-as-list.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Point.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue341/MultiBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-6.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_24_dumped.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/representer/scalar-style3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue60-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Invoice.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue112/MyCompositeObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/stress/StressTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/carwheel-without-tags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue103/MergingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/error/MarkTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-recursive-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/emitter/EventConstructor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue137/SupplementaryCharactersTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/Parent1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/DogImmutableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/BigDecimalJavaBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue68/NonAsciiCharacterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-bean-13.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue116/HiddenSpecial.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/ruby/Sub2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/cararray-with-tags-flow-auto.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/omap.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/EnumBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example9.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue318/ContextClassLoaderTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue94/ChangeRuntimeClassTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/WrongJavaBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue111/LongUriTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/YamlParseTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/collections/ListFileldBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/Wheel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/PropertyUtilsSharingTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue99-base64_literal.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/beanring-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue99-base64_double_quoted.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/merge.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue348/model/Baz.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue100-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Chapter2_5Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue55/YamlFieldAccessCollectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue74-array1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/serializer/SerializerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/json/JsonTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue38/Bean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/RepresentIterableTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/NopropTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/no-children-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue311/BooleanEnumTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/generics/GenericsBugDetector.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/MergeTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue103/FakeMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/house-dump2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/AnchorTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-as-set.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/Room.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_10.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/MapTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/primitives/BunchOfPrimitives.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Point3d.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/ManyListsTable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-pretty.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_24.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/representer/FilterPropertyToDumpTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/events/ScalarEventTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_unicode.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/pairs.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/unknown-tags-example.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_23.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/CanonicalException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_15.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/Human3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_23_non_date.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/emitter/template/VelocityTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue55_1_rootTag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/YamlDocument.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/generics/HumanGen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Shape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue207/OctalNumberTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/util/ArrayStackTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue55/Blog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_28.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/Product.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/JavaBeanWithNullValuesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/car-with-tags.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/resolver/ResolverTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/issue10-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/IncompleteJavaBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/CompactConstructorErrorsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java8/org/yaml/snakeyaml/issues/issue310/OptionalTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue56/PerlTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/HumanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/generics/with-children-3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/list-bean-4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_17_control.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue47/ReadOnlyPropertiesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_4.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue49/CalendarBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue136/TabInScalarTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-as-map.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/javabeans/genericArray-1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/FilterClassesConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/FlowSequenceStartTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error7.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue139-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue149/GlobalDirectivesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue103.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/YamlStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/types/seq.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Color.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/error3.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/LongTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/set-bean-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue100/Data.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue47/IncompleteBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue149/ComponentBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue73/RecursiveSetTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue102/DataBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/FloatArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/TableCompactConstructor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/Dice.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue112-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/javabeans/ConstructEmptyBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue95/ArrayInGenericCollectionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/PrimitiveArrayTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/specification/example2_9.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/recursive/Human_WithArrayOfChildrenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/ios_emoji_surrogate.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue9/Bean1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue171/GenericExtendsObjectTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue10/DataSources.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/array/CharArr.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example5.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/compactnotation/example10.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/examples/map-recursive-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue183/NumberBeanTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue188/ErrorMessageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue29/BigJavaBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/ArrayTagsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/pyyaml/CanonicalScanner.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue60-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/types/BinaryTagTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue133/StackOverflowTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/introspector/MethodPropertyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/JavaBeanWithSqlTimestamp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/constructor/IncompleteBeanConstructorTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/SafeConstructorExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/constructor/test-primitives1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue8/PrattleRepresenterTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/tokens/FlowMappingStartTokenTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/Table.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/nodes/TagsTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/jodatime/JodaTimeExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/DiceExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/immutable/Code2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/YamlComposeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/extensions/compactnotation/CompactConstructorExampleTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/examples/jodatime/JodaTimeFlowStylesTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/InputOutputExceptionTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue68.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/issues/issue149-losing-directives-2.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/recursive/with-children-as-list.yaml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java" afterPath="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java" afterPath="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java" />
+    </list>
+    <ignored path="snakeyaml.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="snakeyaml" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanAccess.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/BeanAccess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="25" column="10" selection-start-line="24" selection-start-column="9" selection-end-line="25" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertyUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodProperty.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/MethodProperty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="46" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2263#2264#0" expanded="false" />
+                <element signature="e#2294#2295#0" expanded="false" />
+                <element signature="e#2343#2344#0" expanded="false" />
+                <element signature="e#2374#2375#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constructor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#1218#1219#0" expanded="false" />
+                <element signature="e#1252#1253#0" expanded="false" />
+                <element signature="e#1487#1488#0" expanded="false" />
+                <element signature="e#1548#1549#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/googlecode/openbeans/AppletInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="android" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="SnakeYAML" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="SnakeYAML" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snakeyaml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="introspector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="snakeyaml" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47aba144-4657-49f6-832d-e7f9c7fd419f" name="Default" comment="" />
+      <created>1478553035820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478553035820</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33919063" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3015544" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/MethodProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2263#2264#0" expanded="false" />
+            <element signature="e#2294#2295#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2374#2375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1218#1219#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1548#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/MethodProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2263#2264#0" expanded="false" />
+            <element signature="e#2294#2295#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2374#2375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1218#1219#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1548#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/MethodProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2263#2264#0" expanded="false" />
+            <element signature="e#2294#2295#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2374#2375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1218#1219#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1548#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/MethodProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2263#2264#0" expanded="false" />
+            <element signature="e#2294#2295#0" expanded="false" />
+            <element signature="e#2343#2344#0" expanded="false" />
+            <element signature="e#2374#2375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/constructor/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1218#1219#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1548#1549#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/yaml/snakeyaml/issues/issue332/Data.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/googlecode/openbeans/AppletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/Yaml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="655" column="19" selection-start-line="655" selection-start-column="19" selection-end-line="655" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/yaml/snakeyaml/introspector/BeanAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="10" selection-start-line="24" selection-start-column="9" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install -X" />
+    <option value="install -DskipTests" />
+  </component>
+</project>
