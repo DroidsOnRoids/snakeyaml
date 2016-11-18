@@ -1,11 +1,11 @@
-syntax: regexp
-^target$
-^bin$
-^\.settings$
-^\.project$
-^\.classpath$
+target
+bin
+.settings
+.project
+.classpath
+.hg
 
-^\.idea$
+.idea
 snakeyaml.iml
 snakeyaml.ipr
 snakeyaml.iws
