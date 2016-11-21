@@ -1,3 +1,9 @@
+# Overview
+This is a fork of [snakeyaml](https://bitbucket.org/asomov/snakeyaml)
+with `BEAN` field access.
+
+Original README:
+
 ***The art of simplicity is a puzzle of complexity.***
 
 ## Overview ##
