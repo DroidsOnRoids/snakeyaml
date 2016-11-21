@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>pl.droidsonroids.yaml</groupId>
     <artifactId>snakeyaml</artifactId>
-    <version>1.18.1</version>
+    <version>1.18.2</version>
     <packaging>bundle</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,12 +15,12 @@
         <maven-bundle-plugin.version>3.0.1</maven-bundle-plugin.version>
     </properties>
     <name>SnakeYAML</name>
-    <description>YAML 1.1 parser and emitter for Java</description>
-    <inceptionYear>2008</inceptionYear>
-    <url>http://www.snakeyaml.org</url>
+    <description>YAML 1.1 parser and emitter for Java, fork of https://bitbucket.org/asomov/snakeyaml with FIELD bean access suitable for Android</description>
+    <inceptionYear>2016</inceptionYear>
+    <url>https://github.com/DroidsOnRoids/snakeyaml</url>
     <issueManagement>
-        <system>Bitbucket</system>
-        <url>https://bitbucket.org/asomov/snakeyaml/issues</url>
+        <system>Github</system>
+        <url>https://github.com/DroidsOnRoids/snakeyaml/issues</url>
     </issueManagement>
     <!--ciManagement>
         <system>jenkins</system>
@@ -33,10 +33,9 @@
         </mailingList>
     </mailingLists>
     <scm>
-        <connection>scm:hg:http://bitbucket.org/asomov/snakeyaml</connection>
-        <developerConnection>scm:hg:ssh://hg@bitbucket.org/asomov/snakeyaml</developerConnection>
-        <url>https://bitbucket.org/asomov/snakeyaml/src</url>
-        <tag>HEAD</tag>
+        <connection>scm:git:https://github.com/DroidsOnRoids/snakeyaml</connection>
+        <developerConnection>scm:git:ssh://git@github.com:DroidsOnRoids/snakeyaml.git</developerConnection>
+        <url>https://github.com/DroidsOnRoids/snakeyaml</url>
     </scm>
     <licenses>
         <license>
