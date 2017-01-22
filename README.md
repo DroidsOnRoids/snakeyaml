@@ -1,3 +1,7 @@
+# Notice
+See [new repository](https://github.com/DroidsOnRoids/snake-yaml).
+This repo is no longer updated.
+
 # Overview
 This is a fork of [snakeyaml](https://bitbucket.org/asomov/snakeyaml)
 with `BEAN` field access.
